@@ -12,7 +12,7 @@
     "typeRoots": ["./node_modules/@types", "./src/types"],
     "resolveJsonModule": true
   },
-  "include": ["src/**/*"],
+  "include": ["src/**/*", "index.ts"],
   "exclude": ["node_modules", "dist"],
   "ts-node": {
     "esm": true,
