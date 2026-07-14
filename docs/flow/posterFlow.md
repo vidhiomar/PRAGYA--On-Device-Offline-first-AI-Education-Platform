@@ -1,0 +1,3 @@
+Image Generation (Posters)
+
+User visits posters page —> Selects educational category from predefined options (Science, Math, History, Geography, etc.) —> Enters prompt for educational poster generation —> System enhances query with cultural context and educational relevance —> Google AI Studio generates 1-4 distinct but relevant educational posters ensuring variety in visual representation —> Generated posters displayed in responsive grid layout for comparison —> User can select best poster, download individual posters or all at once —> All posters are contextually relevant to the input query with Indian cultural relevance —> Quality settings allow customization for different device capabilities and use cases
